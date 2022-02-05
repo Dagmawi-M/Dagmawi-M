@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+  [![HitCount](http://hits.dwyl.com/Dagmawi-M/{project}.svg?style=flat-square)](http://hits.dwyl.com/Dagmawi-M/{project})
+  
 
 A short life gist :
 
