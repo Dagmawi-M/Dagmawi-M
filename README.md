@@ -4,7 +4,7 @@
   [![HitCount](http://hits.dwyl.com/Dagmawi-M/{project}.svg?style=flat-square)](http://hits.dwyl.com/Dagmawi-M/{project})
   
 
-A short life gist :
+
 
 :rocket: I’m currently working on myself , improving my skills and facing each problem head-on. 
  :star: I’m looking to take on new challenging projects/ideas. 
