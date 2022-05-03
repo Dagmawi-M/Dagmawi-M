@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 
   [![HitCount](http://hits.dwyl.com/Dagmawi-M/{project}.svg?style=flat-square)](http://hits.dwyl.com/Dagmawi-M/{project})
@@ -6,7 +6,7 @@
 
 
 
-:rocket: I’m currently working on myself , improving my skills everyday. 
+:rocket:currently working on myself 
 
 <!--
 **Dagmawi-M/Dagmawi-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
